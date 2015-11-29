@@ -1,7 +1,4 @@
-# pase
-django base project template for user and client based applications.
-this project is completely REST based.
-
+# MUF Track
 
 **Base Setup:** (for ubuntu)
 
